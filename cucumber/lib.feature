@@ -13,3 +13,4 @@ Feature: Running Cucumber with Protractor
   Scenario: Wrapping WebDriver
     Given I go on "http://localhost:8000/hello.html"
     When I enter "Barney" in the name field
+    Then the name label says "Hello Barney"
