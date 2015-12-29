@@ -6,7 +6,7 @@ Example of how to use cucumber with protractor.
 First you need to install protractor, cucumber, and the other dependencies:
 
 ```
-npm install -g protractor cucumber webdrive
+npm install -g protractor cucumber webdriver
 npm install 
 ```
 
